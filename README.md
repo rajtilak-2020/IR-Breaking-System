@@ -7,17 +7,10 @@
 ---
 
 ## 🛠️ **Features**  
-✨ **Obstacle Detection**: IR sensors scan for nearby objects and trigger the brakes.  
-✨ **Manual Control**: Engage brakes using a switch.  
-✨ **Smooth Servo Braking**: A servo motor moves precisely to engage/disengage brakes.  
-✨ **Power Management**: Relay cuts off power to other systems during braking.
-
----
-
-
-
-
-
+- **Obstacle Detection**: IR sensors scan for nearby objects and trigger the brakes.  
+- **Manual Control**: Engage brakes using a switch.  
+- **Smooth Servo Braking**: A servo motor moves precisely to engage/disengage brakes.  
+- **Power Management**: Relay cuts off power to other systems during braking.
 
 ---
 
@@ -41,7 +34,7 @@
 
 ---
 
-## 🔌 **Circuit Diagram**
+## ⚡ **Circuit Diagram**
 
 
                +------------------+
