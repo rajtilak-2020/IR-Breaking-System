@@ -1,0 +1,1 @@
+This project is an Arduino-based automatic braking system. It uses a servo motor, IR sensors, and a relay to detect obstacles or engage the braking mechanism based on user input. The system can be utilized in small robotic vehicles or other applications requiring automatic braking.
